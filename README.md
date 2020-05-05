@@ -1,2 +1,2 @@
 # Coursera_Capstone
-Capstone project for Applied Data Science Capstone course by IBM on Coursera
+All the projects for Applied Data Science Capstone course by IBM on Coursera
